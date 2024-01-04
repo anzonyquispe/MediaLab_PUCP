@@ -7,7 +7,7 @@ This public repository contains the training materials, tutorials, code, and ass
 |  | | 
 |:-------------------|---|
 | Course name | Extraction and Data Processing | 
-| Number of Hours of Theory | 16 hours |
+| Number of Hours of Theory | 24 hours |
 | Professor | Anzoiny Quispe Rojas |
 | Email | anzony.quispe@gmail.com |
 
@@ -54,13 +54,22 @@ The evaluation consists of a final work at the end of the course.
 
 |Week|Date|Day|Schedule|Topic|Subtopic
 |---|---|---|---|---|---
-|1|01/03/2024|Wednesday|08:00-11:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>   
-|2|01/05/2025|Friday|08:00-11:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
-|3|01/08/2024|Monday|08:00-11:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
-|4|01/10/2024|Wednesday|08:00-11:30| APIs| <ul>  <li>Google Directions</li>   <li>Geolocation</li> <li>Finance APIs</li> </ul>   
-|5|01/12/2024|Friday|08:00-11:30| NLP| <ul>  <li> GPT-4 </li>   <li> Transformers </li>   </ul> 
+|1|01/03/2024|Wednesday|18:00-21:00| Github | <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> </ul>   
+|2|01/05/2024|Friday|18:00-21:00|Basic Objects - Pandas | <ul> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
+|3|01/08/2024|Monday|18:00-21:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
+|4|01/10/2024|Wednesday|18:00-21:00| Web Scrapping| <ul>  <li>HTML</li>   <li>Selenium</li> <li>Beautiful Soup</li> </ul>   
+|5|01/12/2024|Friday|18:00-21:00| APIs| <ul>  <li> Twitter </li>   <li> World Bank </li>  <li> BCRP </li>  </ul> 
+|6|01/15/2024|Monday|18:00-21:00 |  Plots| <ul>  <li> GPT-4 </li>   <li> Transformers </li>   </ul> 
+|7|01/17/2024|Wednesday|18:00-21:00| Mapas| <ul>  <li>Geopandas</li> <li>Selenium</li> </ul>   
+|8|01/19/2024|Friday|18:00-21:00| NLP| <ul>  <li> GPT-4 </li>   <li> Transformers </li>   </ul> 
 
-        
+## IX. Groups
+| Group1                              | Group2                          | Group3                                  | Group4                        | Group5                             | Group6                           |
+| ----------------------------------- | ------------------------------- | --------------------------------------- | ----------------------------- | ---------------------------------- | -------------------------------- |
+| PAAN QUISPE, CLAUDIA                | LEGUIA LOPEZ, JEFFERSON FRANSUA | FLORES DE LA TORRE, KATHERINE STEPHANIE | CARDOSO CARBAJAL, JORGE JOHAN | GUEVARA VILLAMAR, FIORELLA VANESSA | ALVAREZ MONTOYA, ALEJANDRA ZUALE |
+| ESCUDERO RATTO, FERNANDO            | LAGUNA SANCHEZ, MIRIAM          | CARDOSO REATEGUI, MARCO ANTONIO         | QUISPE PAREDES, DARWIN ROSELL | ESPINOZA CRUZATT, CARLOS GABRIEL   | SALAS MARTINEZ, CLAUDIA RAQUEL   |
+| LOPEZ GONZALEZ, ALICE DIANA         | BEDOYA BARBIERI, XIMENA         | GUZMAN CARDENAS, GIOVANNY TEODORO       | ESTRADA CABRERA, LIDIA KEY    | VELASCO YABAR, VICTOR FABRIZIO     | MARDINI ARANDA, ABRAHAM EFRAÍN   |
+| MALPARTIDA SÁNCHEZ, VALERIA AZUCENA | CONTRERAS PULACHE, HANS LENIN   | ZARI LOPEZ, GABRIELA                    | DEZA SANTOS, VLADIMIR NICOLAU | ALEMAN HERRERA, KATHERINE LUCERO   | FERNANDEZ YAMUCA, ITALO GREGORY  |    
 
 ## X. Website
 
