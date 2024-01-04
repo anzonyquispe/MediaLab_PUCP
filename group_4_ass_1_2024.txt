@@ -1,0 +1,4 @@
+Lidia
+a. Base de datos: TVInsightDB
+b. Información: Datos de audiencias televisivas recopilados entre 2018-2023, incluyendo detalles demográficos, programas populares, horas de mayor audiencia y patrones de cambio de canales
+c. Interés: Comprender las audiencias televisivas es crucial para la toma de decisiones estratégicas en la industria del entretenimiento y la publicidad
