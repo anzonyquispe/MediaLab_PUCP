@@ -1,8 +1,14 @@
-Lidia
+Lidia (a20183059@pucp.edu.pe)
 a. Base de datos: TVInsightDB
 b. Información: Datos de audiencias televisivas recopilados entre 2018-2023, incluyendo detalles demográficos, programas populares, horas de mayor audiencia y patrones de cambio de canales
 c. Interés: Comprender las audiencias televisivas es crucial para la toma de decisiones estratégicas en la industria del entretenimiento y la publicidad
-Darwin
-a. Base de datos: RENAMU (quispe.darwinr@pucp.edu.pe)
+
+Darwin (quispe.darwinr@pucp.edu.pe)
+a. Base de datos: RENAMU 
 b. Información: Encuesta nacional de municipalidades que se realiza anualmente desde el 2004, incluye detalles de trabajadores municipales, temas de infraestructura, avance de diferentes proyectos, maquinaria automotris, entre otros
 c. Interés: De entre todos los robros, los temas de gestion de residuos solidos son los que mas resaltan actualmente, ya que con los datos reportados se puede ver el progreso en la gestion residuos soludios, un tema relacionado con las OBS y el dasarrollo sostenible
+
+Jorge
+a.Database: European goalscorers stadistics
+b.Information:Data about the main goal scorers from the top 5 leagues in Europe since 2020
+c.Interest: I would like to analyze the information (shots on goal, assists, free kicks) from football players that were consolided as the main goalscorers in their leagues
