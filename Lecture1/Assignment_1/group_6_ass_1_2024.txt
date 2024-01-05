@@ -2,3 +2,7 @@ Abraham - a20223362@pucp.edu.pe
 a. Database: Association for Computing Machinery Digital Library
 b. Information: Data about advertising in the Peruvian industry of food for the years 2019-2021
 c. Interest: I would like to study information on strategies used to push food sales during the time we were confined by the coronavirus
+Alejandra
+a. Database: Psychological movies
+b. Information: Data about movies around the world that discuss with psychological themes such as depression or anxiety
+c. Interest: I would like to study information about the representation of depression in teenagers films
