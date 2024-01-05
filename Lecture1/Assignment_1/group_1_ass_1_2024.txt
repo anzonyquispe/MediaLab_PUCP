@@ -9,7 +9,6 @@ a. Database: MINEDU
 b. Information: Data about schoools in Puno
 c. Interest: I would like to investigate about education en region of Puno-Perú
 
-
 group_1_ass_1_2024_claudia
 Claudia - cpaan@pucp.pe
 a. Database: INPE
