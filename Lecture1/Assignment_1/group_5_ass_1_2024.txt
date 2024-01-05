@@ -2,3 +2,8 @@ Katherine (a20192811@pucp.edu.pe)
 a. Base de datos: Latin Grammy
 b. Información: Datos de ganadores de los Latin Grammys entre 2015-2023, incluyendo detalles demográficos y audiencia
 c. Interés: Conocer a mayor detalle quienes fueron ganadores de estos premios y la audiencia a la que se dirigen para futuras campañas internacionales 
+
+Fiorella
+a. Base de datos: Golden Globes
+b. Información: Datos de ganadores de los Golden Globes entre 2010-2020, incluyendo detalles de géneros, actores y directores. 
+c. Interés: Conocer a mayor detalle quienes fueron ganadores de estos premios y los géneros que más premios obtuvieron.
