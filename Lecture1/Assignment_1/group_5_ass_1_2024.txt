@@ -7,3 +7,8 @@ Fiorella (a20190036@pucp.edu.pe)
 a. Base de datos: Golden Globes
 b. Información: Datos de ganadores de los Golden Globes entre 2010-2020, incluyendo detalles de géneros, actores y directores. 
 c. Interés: Conocer a mayor detalle quienes fueron ganadores de estos premios y los géneros que más premios obtuvieron.
+
+Carlos (carlosg.espinozac@pucp.edu.pe)
+a. Base de datos: Pacientes Covid
+b. Información: Datos sobre la cantidad de pacientes con covid-19 en el Perú entre los años 2022-2023 
+c. Interés: Conocer las tendencias en el contagio de covid-19 en el Perú.
