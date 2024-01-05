@@ -12,3 +12,8 @@ Alejandra - aalvarezm@pucp.edu.pe
 a. Database: Psychological movies
 b. Information: Data about movies around the world that discuss with psychological themes such as depression or anxiety
 c. Interest: I would like to study information about the representation of depression in teenagers films
+
+Italo
+a. Database: Epstein's island
+b. Information: Data about famous people who were involved in abusing children on an island
+c. Interest: I would like to study information about several crimes committed by Jeffrey Epstein
