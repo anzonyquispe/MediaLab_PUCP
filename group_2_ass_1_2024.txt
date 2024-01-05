@@ -2,3 +2,9 @@ Miri
 a. Base de datos: ENDES
 b. Información: Datos sobre formas de castigo que ejerce el padre biológico 
 c. Interés: Quisiera estudiar los tipos de castigo que ejerce el padre según territorio
+
+Hans (PoolH)
+
+a. Base de datos: ENAHO
+b. Informacion: Datos sobre uso de internet
+c. Interés: Crear un indicador sobre ciudadanía digital
