@@ -1,0 +1,4 @@
+Marco Cardoso - mcardoso@pucp.pe
+a. Database: Most Followed on Instagram (on data.world)
+b. Information: Data about top 100 mosst followed brands and celebrities on Instagram.
+c. Interest: I would like to study the similarities and differences between the most popular Instagram profiles, in order to find insights into users' global consumption preferences.
