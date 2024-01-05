@@ -3,8 +3,22 @@ a. Database: INEI
 b. Information: Data about citizen insecurity for the years 2020-2023
 c. Interest: I would like to investigate about crime in the districts of Metropolitan Lima
 
+group_1_ass_1_2024_VALERIA
 Valeria - valeria.malpartida@pucp.edu.pe
 a. Database: MINEDU
 b. Information: Data about schoools in Puno
 c. Interest: I would like to investigate about education en region of Puno-Perú
 
+
+group_1_ass_1_2024_claudia
+Claudia - cpaan@pucp.pe
+a. Database: INPE
+b. Information: Data about population in Lima's prisons
+c. Interest: I would like to investigate about crime in Lima
+
+FERNANDO - escudero.fernando@pucp.edu.pe
+a. Database: PCM
+b. Information: Data about citizen murdered in the protests
+c. Interest: I would like to investigate who killed people during the social protesta.
+group_1_ass_1_2024
+group_1_ass_1_2024
