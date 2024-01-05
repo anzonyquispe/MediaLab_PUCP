@@ -2,3 +2,8 @@ Alice - adlopez@pucp.pe
 a. Database: INEI
 b. Information: Data about citizen insecurity for the years 2020-2023
 c. Interest: I would like to investigate about crime in the districts of Metropolitan Lima
+
+FERNANDO
+a. Database: PCM
+b. Information: Data about citizen murdered in the protests
+c. Interest: I would like to investigate who killed people during the social protesta.
