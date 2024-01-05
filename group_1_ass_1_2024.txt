@@ -1,0 +1,4 @@
+Alice
+a. Database: INEI
+b. Information: Data about of complaints for criminality in Lima
+c. Interest: I would like to study information about the perception of insecurity by district
