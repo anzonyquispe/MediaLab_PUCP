@@ -8,7 +8,7 @@ a. Base de datos: RENAMU
 b. Información: Encuesta nacional de municipalidades que se realiza anualmente desde el 2004, incluye detalles de trabajadores municipales, temas de infraestructura, avance de diferentes proyectos, maquinaria automotris, entre otros
 c. Interés: De entre todos los robros, los temas de gestion de residuos solidos son los que mas resaltan actualmente, ya que con los datos reportados se puede ver el progreso en la gestion residuos soludios, un tema relacionado con las OBS y el dasarrollo sostenible
 
-Jorge
-a.Database: European goalscorers stadistics
+Jorge (j.cardoso@pucp.edu.pe)
+a.Database: European goalscorers stadistics 
 b.Information:Data about the main goal scorers from the top 5 leagues in Europe since 2020
 c.Interest: I would like to analyze the information (shots on goal, assists, free kicks) from football players that were consolided as the main goalscorers in their leagues
