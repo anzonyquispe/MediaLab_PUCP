@@ -1,4 +1,4 @@
-Miri
+Miri - mlaguna@pucp.edu.pe
 a. Base de datos: ENDES
 b. Información: Datos sobre formas de castigo que ejerce el padre biológico 
 c. Interés: Quisiera estudiar los tipos de castigo que ejerce el padre según territorio
