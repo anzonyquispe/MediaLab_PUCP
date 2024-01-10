@@ -1,0 +1,4 @@
+Lidia (a20183059@pucp.edu.pe)
+a. Database: TVInsightDB
+b. Information: Television audience data collected between 2018-2023, including demographic details, popular programs, peak viewing hours, and channel-switching patterns.
+c. Significance: Understanding television audiences is crucial for making strategic decisions in the entertainment and advertising industry.
