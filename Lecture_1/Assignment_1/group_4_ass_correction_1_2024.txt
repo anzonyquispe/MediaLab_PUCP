@@ -2,7 +2,7 @@ Lidia (a20183059@pucp.edu.pe)
 a. Database: TVInsightDB
 b. Information: Television audience data collected between 2018-2023, including demographic details, popular programs, peak viewing hours, and channel-switching patterns.
 c. Significance: Understanding television audiences is crucial for making strategic decisions in the entertainment and advertising industry.
-Darwin
+Darwin (quispe.darwinr@pucp.edu.pe) 
 a. Database: RENAMU 
 b. Information: National survey of municipalities conducted annually since 2004, including details about municipal workers, infrastructure topics, progress on various projects, automotive machinery, among others. 
 c. Interest: Among all the sections, solid waste management topics stand out the most currently. With the reported data, progress in solid waste management can be observed, a theme related to OBS and sustainable development.
