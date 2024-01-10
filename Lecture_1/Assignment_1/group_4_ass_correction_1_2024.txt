@@ -8,7 +8,7 @@ a. Database: RENAMU
 b. Information: National survey of municipalities conducted annually since 2004, including details about municipal workers, infrastructure topics, progress on various projects, automotive machinery, among others. 
 c. Interest: Among all the sections, solid waste management topics stand out the most currently. With the reported data, progress in solid waste management can be observed, a theme related to OBS and sustainable development.
 
-Jorge
+Jorge (j.cardoso@pucp.edu.pe)
 a.Database: European goalscorers stadistics 
 b.Information:Data about the main goal scorers from the top 5 leagues in Europe since 2020
 c.Interest: I would like to analyze the information (shots on goal, assists, free kicks) from football players that were consolided as the main goalscorers in their leagues
