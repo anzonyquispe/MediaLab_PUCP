@@ -2,3 +2,8 @@ Abraham - a20223362@pucp.edu.pe
 a. Database: Association for Computing Machinery Digital Library
 b. Information: Data about advertising in the Peruvian industry of food for the years 2019-2021
 c. Interest: I would like to study information on strategies used to push food sales during the time we were confined by the coronavirus
+
+Claudia - claudia.salasm@pucp.edu.pe 
+a. Database: Educational Performance Data in Peru
+b. Information: This dataset in Peru showcases educational performance metrics, revealing strengths and weaknesses in the education system.
+c. Interest: I'd like to study this dataset because I believe is important to learn about the strengths and weaknesses in the education system.
