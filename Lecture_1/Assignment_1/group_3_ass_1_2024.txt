@@ -7,3 +7,8 @@ Katherine Flores- s.floresd@pucp.pe
 a. Database: Nexus INDECI
 b. Information: Data base to the latest events of the El Niño phenomen in Peru
 c. Interest: I would like to know the situation of the probabilities of the Phenomenon in the country
+
+Gabriela Zari - gabriela.zari@pucp.edu.pe
+a. Database: Perception on the current political system applied in Perú.
+b. Information: Data about the Lima's citizens perception on the current political system applied in Perú from 2018 to 2021.
+c. Interest: I would like to study how the perception of the current political system applied in Perú has changed throughout the years between 2018 to 2021.
