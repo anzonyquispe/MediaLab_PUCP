@@ -3,7 +3,7 @@ a. Database: Most Followed on Instagram (on data.world)
 b. Information: Data about top 100 mosst followed brands and celebrities on Instagram.
 c. Interest: I would like to study the similarities and differences between the most popular Instagram profiles, in order to find insights into users' global consumption preferences.
 
-Katherine Flores
+Katherine Flores- s.floresd@pucp.pe
 a. Database: Nexus INDECI
 b. Information: Data base to the latest events of the El Niño phenomen in Peru
 c. Interest: I would like to know the situation of the probabilities of the Phenomenon in the country
